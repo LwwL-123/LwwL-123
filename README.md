@@ -3,7 +3,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LwwL-123&hide=contribs" />
 
 
-### Hello World 👋
+### Welcome 👋
 
 - 🔨 Focusing on Golang and Rust
 - 🔭 Studing k8s and blockchain
