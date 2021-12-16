@@ -1,6 +1,6 @@
 
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=LwwL-123&hide=contribs" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=LwwL-123" />
 
 
 ### Welcome 👋
