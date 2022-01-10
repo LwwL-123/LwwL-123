@@ -5,8 +5,5 @@
 
 ### Welcome 👋
 
-- 🔨 I'm focusing on Golang and Rust
-- 🔭 Studying k8s and blockchain
-- 🎒 Will graduate in 2023.3
-- 💕 Love learning and love life
+- 🔨 Focusing on Golang and Rust
 - 📫 How to reach me: 657434763@qq.com
