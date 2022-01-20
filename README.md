@@ -3,7 +3,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=LwwL-123" />
 
 
-### Welcome 👋
+### Welcome to my github👋
 
-- 🔨 Focusing on Golang and Rust
+- 🔨 I'm focusing on Golang and Rust
 - 📫 How to reach me: 657434763@qq.com
+- 📚 My personally study book: 47.116.70.98:8081
