@@ -7,4 +7,3 @@
 
 - 🔨 I'm focusing on Golang and Rust
 - 📫 How to reach me: 657434763@qq.com
-- 📚 This is my personally study book: http://49.234.39.169:8081/
